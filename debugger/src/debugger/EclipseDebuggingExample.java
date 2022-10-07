@@ -1,40 +1,9 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@HashirShahzad07 
-sushovankarmakar
-/
-GeeksforGeeks
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-GeeksforGeeks/4. Hard/src/Backtracking_NQueenProblem.java /
-@sushovankarmakar
-sushovankarmakar N-Queen Problem
-Latest commit 2d775b4 on Jul 13, 2020
- History
- 1 contributor
-86 lines (76 sloc)  2.83 KB
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-// https://practice.geeksforgeeks.org/problems/n-queen-problem/0
-// https://www.youtube.com/watch?v=0DeznFqrgAI (Best video explanation)
-// https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/
-// https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/
-// https://www.youtube.com/watch?v=xFv_Hl4B83A
-// https://www.youtube.com/watch?v=xouin83ebxE
 
 public class Backtracking_NQueenProblem {
     private static int N = 0;
@@ -111,18 +80,4 @@ public class Backtracking_NQueenProblem {
         output.append("] ");
     }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-GeeksforGeeks/Backtracking_NQueenProblem.java at master · sushovankarmakar/GeeksforGeeks
+
